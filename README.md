@@ -2,7 +2,7 @@
 
 Hi there, Marchel here.
 
-🔭 I’m currently working as a Software Engineer in Tokopedia, 
+🔭 I’m previously working as a Software Engineer in Tokopedia, 
 focus on backend and handle Purchase Platform module - (add to cart, cart page, checkout).
 
 📫 How to reach me:
