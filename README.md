@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Marchel!
 
-I'm a **Senior Software Engineer (Backend)** with nearly 5 years of experience specializing in backend development using **Golang**. I have a proven track record of designing and building scalable systems, previously contributing to one of Indonesia's largest e-commerce platforms, **Tokopedia**.
+I'm a **Software Engineer (Backend)** with nearly 5 years of experience specializing in backend development using **Golang**. I have a proven track record of designing and building scalable systems, previously contributing to one of Indonesia's largest e-commerce platforms, **Tokopedia**.
 
 ## 🛠️ My Tech Stack
 
@@ -19,7 +19,9 @@ I'm a **Senior Software Engineer (Backend)** with nearly 5 years of experience s
 
 ## 📈 My Experience
 
-- **Tokopedia:** Played a key role in the development of backend services for Indonesia's leading e-commerce platform.
+- **Tokopedia:** Senior Software Engineer.
+  
+  Working with Purchase Platform Team and various stakeholders to develop and maintain Tokopedia’s transaction flow (Add product to cart, Cart Page and Shipment page).
 
 ## 🌐 Connect with Me
 
