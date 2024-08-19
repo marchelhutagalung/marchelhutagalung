@@ -1,26 +1,28 @@
-# Marchel P. S. Hutagalung
 
-Hi there, Marchel here.
+# 👋 Hello, I'm Marchel!
 
-🔭 I’m previously working as a Software Engineer in Tokopedia, 
-focus on backend and handle Purchase Platform module - (add to cart, cart page, checkout).
+I'm a **Senior Software Engineer (Backend)** with nearly 5 years of experience specializing in backend development using **Golang**. I have a proven track record of designing and building scalable systems, previously contributing to one of Indonesia's largest e-commerce platforms, **Tokopedia**.
 
-📫 How to reach me:
-  - LinkedIn  : https://www.linkedin.com/in/marchel-hutagalung
-  - Instagram : https://instagram.com/marchelhutagalung
-  - Twitter   : https://twitter.com/marchelhtg
-<!--
-**marchelhutagalung/marchelhutagalung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My Tech Stack
 
-Here are some ideas to get you started:
+- **Programming Languages:** Golang
+- **Databases:** PostgreSQL
+- **Messaging Systems:** NSQ
+- **API Technologies:** REST API, gRPC, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 What I Do
 
--->
+- **Backend Development:** Crafting efficient and scalable backend solutions using Golang.
+- **System Design:** Architecting robust systems to handle high traffic and complex business logic.
+- **API Development:** Building RESTful, gRPC, and GraphQL APIs to connect different services.
+- **Database Management:** Optimizing and managing PostgreSQL databases.
+
+## 📈 My Experience
+
+- **Tokopedia:** Played a key role in the development of backend services for Indonesia's leading e-commerce platform.
+
+## 🌐 Connect with Me
+
+- **[LinkedIn](https://www.linkedin.com/in/marchel-hutagalung)**
+- **[Instagram](https://instagram.com/marchelhutagalung)**
+- **[Twitter](https://twitter.com/marchelhtg)**
